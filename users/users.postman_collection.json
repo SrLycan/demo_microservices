@@ -17,11 +17,11 @@
   "variable": [
     {
       "key": "base_url",
-      "value": "localhost:8686"
+      "value": "http://localhost:8888/users"
     },
     {
       "key": "token",
-      "value": "PEGA_AQUI_TU_ACCESS_TOKEN"
+      "value": "eyJraWQiOiJ5N3VuVFdhYlQ5cFZmOVFMNDVFN01jSlFnVUJQekRsVEVmZGQyS2kvQW9JPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJmNDI4YzQ3OC02MGUxLTcwM2EtNWYyMi0zZWQ0MDUzYjA0NmQiLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tL3VzLWVhc3QtMV9KMWJZVlJTS0EiLCJ2ZXJzaW9uIjoyLCJjbGllbnRfaWQiOiIybW8ybGxuYXZ1Z2kydmlzamdpMzczamhmdCIsIm9yaWdpbl9qdGkiOiIwOTUwNDcwMC1lMTg4LTRlMDctOTU0My1kNWRjNWE2NjJlMmYiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6InBob25lIG9wZW5pZCBlbWFpbCIsImF1dGhfdGltZSI6MTc4NDk5OTEyMSwiZXhwIjoxNzg1MDAyNzIxLCJpYXQiOjE3ODQ5OTkxMjEsImp0aSI6IjgzZGEyZTRlLWQ3MTQtNDljZS1hYTA1LWVkOGU5ZmY3YWY0YiIsInVzZXJuYW1lIjoiZGVubnlzIn0.cs321av6mwSOchof8NsUVgpx7TF9ONT2dEx04x6cxCJ-NV3czXNEp_lERk1BFCZdOH_UjB00qIJBikur-b__n9sjwDGG5yDAi2Uevi0P3yPejNCqP21GBN3s4O4YbLlmp1f8uNs1wDbd69zmH_w0TEzAfdp-_7Ou_e0I94SvuRRZOtn-FldEdAk63zmYBGTMcPzwh2TQQtNl5hEnXUSrZE12_wkQmZooAjXkke-ilcLeaiAJZZolUAh_GO8WhOO-5770lZofaAYhR3LsgXedxZ_RGbpBbr9zejx0UC2-hm1Oa73AE2HsS6nj4SjVmTRzAzOhin3NKA2KVq899Uib-A"
     }
   ],
   "item": [
